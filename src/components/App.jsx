@@ -1,16 +1,21 @@
-export const App = () => {
+import Header from './Header/Header';
+import Hero from './Hero/Hero';
+import UndrawMob from './UndrawMob/UndrawMob';
+import IntroSection from './IntroSection/IntroSection';
+import Pricing from './Pricing/Pricing';
+import Footer from './Footer/Footer';
+
+export default function App() {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Header />
+      <Hero />
+      <main>
+        <UndrawMob />
+        <IntroSection />
+        <Pricing />
+      </main>
+      <Footer />
+    </>
   );
-};
+}
