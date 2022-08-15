@@ -1,17 +1,22 @@
 {
   "files": {
     "main.css": "/react-landie/static/css/main.dc2e44b6.css",
-    "main.js": "/react-landie/static/js/main.1c565a2e.js",
+    "main.js": "/react-landie/static/js/main.47587a01.js",
     "static/media/9.png": "/react-landie/static/media/9.e763ec183cfa3a223719.png",
     "static/media/10.png": "/react-landie/static/media/10.cbdd4320aed85c40a167.png",
     "static/media/8.png": "/react-landie/static/media/8.e584c36c618efe078625.png",
     "static/media/11.png": "/react-landie/static/media/11.7927ef0784dbde4d71e2.png",
+    "static/media/twitter.svg": "/react-landie/static/media/twitter.94e1499919022dfed550.svg",
     "index.html": "/react-landie/index.html",
+    "static/media/Instagram.svg": "/react-landie/static/media/Instagram.23c3fb5cec24c68aa7a2.svg",
+    "static/media/youtube.svg": "/react-landie/static/media/youtube.3d3e31b1167ba6830320.svg",
+    "static/media/linkedIn.svg": "/react-landie/static/media/linkedIn.4c583645556f8c6839ee.svg",
+    "static/media/facebook.svg": "/react-landie/static/media/facebook.995830a9db3c75511f22.svg",
     "main.dc2e44b6.css.map": "/react-landie/static/css/main.dc2e44b6.css.map",
-    "main.1c565a2e.js.map": "/react-landie/static/js/main.1c565a2e.js.map"
+    "main.47587a01.js.map": "/react-landie/static/js/main.47587a01.js.map"
   },
   "entrypoints": [
     "static/css/main.dc2e44b6.css",
-    "static/js/main.1c565a2e.js"
+    "static/js/main.47587a01.js"
   ]
 }
