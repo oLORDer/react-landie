@@ -1,5 +1,3 @@
-import s from './socials.module.scss';
-
 export default function Socials({ alt, src, url, id }) {
   return (
     <li key={id}>
